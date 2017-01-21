@@ -1,6 +1,6 @@
 {
     "name": "nodebb-plugin-emailer-sendcloud",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Plugin for NodeBB allowing you to send e-mail via SendCloud  API.",
     "repository": {
         "type": "git",
@@ -19,6 +19,6 @@
         "sendcloud": "^1.6.1"
     },
     "nbbpm": {
-        "compatibility": "~1.0.0"
+        "compatibility": "^1.0.0"
     }
 }
