@@ -1,17 +1,24 @@
 {
-  "name": "nodebb-plugin-emailer-sendcloud",
-  "version": "1.0.1",
-  "description": "Plugin for NodeBB allowing you to send e-mail via SendCloud  API.",
-  "main": "index.js",
-  "keywords": [
-   "nodebb",
-   "plugin",
-   "email",
-   "sendcloud"
-],
-  "author": "dawenxi",
-  "license": "ISC",
-  "dependencies": {
-    "sendcloud": "^1.6.1"
-  }
+    "name": "nodebb-plugin-emailer-sendcloud",
+    "version": "1.0.1",
+    "description": "Plugin for NodeBB allowing you to send e-mail via SendCloud  API.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/393197906/nodebb-plugin-emailer-sendcloud"
+    },
+    "main": "index.js",
+    "keywords": [
+        "nodebb",
+        "plugin",
+        "email",
+        "sendcloud"
+    ],
+    "author": "dawenxi",
+    "license": " Apache License",
+    "dependencies": {
+        "sendcloud": "^1.6.1"
+    },
+    "nbbpm": {
+        "compatibility": "~1.0.0"
+    }
 }

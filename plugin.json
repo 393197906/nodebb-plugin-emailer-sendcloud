@@ -1,6 +1,6 @@
 {
     "id": "nodebb-plugin-emailer-sendcloud",
-    "url": "",
+    "url": "https://github.com/393197906/nodebb-plugin-emailer-sendcloud",
     "name": "Emailer sendcloud API",
     "description": "Plugin for NodeBB allowing you to send e-mail via sendcloud  API.",
     "library": "./index.js",
